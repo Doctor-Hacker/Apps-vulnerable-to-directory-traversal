@@ -1,0 +1,3 @@
+
+Colorado FTP Server 1.38, Gabriels FTP Server 1.2, Femitter FTP Server 1.04, Konica Minolta FTP Server 1.0, Home FTP Server 1.12, Bisonware FTP Server 3.5
+, Quickshare File Server 3.5, CyBroHttpServer-v1.0.3, PMSoftware Simple Web Server 2.3-rc1, PCMan FTP Server 2.0.7, MiniWebsvr 0.0.9a, iWeb HTTP Server
