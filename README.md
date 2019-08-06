@@ -1,7 +1,7 @@
 # Apps-vulnerable-to-directory-traversal-
 This is a collection simple server apps (FTP and HTTP) that are vulnerable to diretory traversal attacks. The apps have been tested under Windows 7 and 2008r2 Server. 
 
-Colorado FTP Server 1.38
+Colorado FTP Server 1.38 
 Gabriels FTP Server 1.2
 Femitter FTP Server 1.04
 Konica Minolta FTP Server 1.0
